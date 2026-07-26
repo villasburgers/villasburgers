@@ -1,9 +1,9 @@
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
+<p align="center"> <img 
 src="https://img.shields.io/github/followers/villasburgers?style=social" alt="villasburgers" /> <img
-src="https://img.shields.io/github/last-commit/villasburgers/villasburgers" alt="villasburgers" /> <img
+src="https://img.shields.io/github/last-commit/villasburgers/villasburgers" alt="villasburgers" /> <img alt="0x00CCSec" /> </p>
 
 ```javascript
 const burgers = {

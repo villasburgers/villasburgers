@@ -19,7 +19,7 @@ local burgers = {
 	    outdoor: ["traveling", "Bicycling, "Dog"],
         },
         funFact: {
-            love: ["I love my dog Felix],
+            love: ["I love my dog Felix"],
         }        
     }
 };

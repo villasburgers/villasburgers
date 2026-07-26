@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/villasburgers?style=social" alt="vi
 src="https://img.shields.io/github/last-commit/villasburgers/villasburgers" alt="villasburgers" /> <img alt="0x00CCSec" /> </p>
 
 ```javascript
-const burgers = {
+local burgers = {
     pronouns: "he" | "him",
     location: ["Denmark, Fyn - DK"],
     contact: ["villasbander@gmail.com"],

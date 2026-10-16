@@ -6,13 +6,13 @@ src="https://img.shields.io/github/followers/villasburgers?style=social" alt="vi
 src="https://img.shields.io/github/last-commit/villasburgers/villasburgers" alt="villasburgers" /> 
 
 ```javascript
-local burgers = {
+local villasersej = {
     pronouns: "he" | "him",
     location: ["Denmark, Fyn - DK"],
     contact: ["villasbander@gmail.com"],
-    workingOn: ["NOVA RP"],
-    learning: ["How to make websites"],
-    askMeAbout: ["Fivem", "Lua", "Html", "CSS", "Javascript",
+    workingOn: ["Atlas Roleplay"],
+    learning: ["ESX"],
+    askMeAbout: ["Fivem", "Lua", "Html", "CSS", "Javascript", "vrp"],
     hobbies: {
         major: {
             indoor: ["Coding", "gaming"],
